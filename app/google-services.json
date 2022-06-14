@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064342078790",
+    "project_id": "exer5daetkentmer",
+    "storage_bucket": "exer5daetkentmer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064342078790:android:66ec7d3e910a07f63c5147",
+        "android_client_info": {
+          "package_name": "com.example.exer5daetkentmer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064342078790-abuthqgue199tmmn4u0cp38ngpnitqgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArLF4bdYijpF0sSziBr0kvMX5dV-zYbyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064342078790-abuthqgue199tmmn4u0cp38ngpnitqgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
